@@ -15582,7 +15582,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 <parts>
 <part name="R1" library="rcl-ez" deviceset="R-US_" device="0207/10" value="27"/>
 <part name="R2" library="rcl-ez" deviceset="R-US_" device="0207/7" value="27"/>
-<part name="R3" library="rcl-ez" deviceset="R-US_" device="0207/5V" value="1.5K"/>
+<part name="R3" library="rcl-ez" deviceset="R-US_" device="0207/10" value="1.5K"/>
 <part name="GND1" library="supply1" deviceset="GND" device=""/>
 <part name="IC1" library="avr" deviceset="ATTINY2313" device="P" technology="-20"/>
 <part name="GND2" library="supply1" deviceset="GND" device=""/>
@@ -15593,7 +15593,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 <part name="P+1" library="supply1" deviceset="VCC" device=""/>
 <part name="P+2" library="supply1" deviceset="VCC" device=""/>
 <part name="LED1" library="minimidi" deviceset="LED" device="3MM"/>
-<part name="R6" library="rcl-ez" deviceset="R-US_" device="0207/5V" value="1.5K"/>
+<part name="R6" library="rcl-ez" deviceset="R-US_" device="0207/10" value="1.5K"/>
 <part name="GND5" library="supply1" deviceset="GND" device=""/>
 <part name="D1" library="diode" deviceset="ZENER-DIODE" device="DO35Z10" value="3.6V"/>
 <part name="D2" library="diode" deviceset="ZENER-DIODE" device="DO35Z10" value="3.6V"/>
